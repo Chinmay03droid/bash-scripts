@@ -1,0 +1,8 @@
+INFO Server Started
+INFO User Login
+WARNING CPU Usage
+ERROR Database Failed
+ERROR Disk Full
+CRITICAL Kernel Panic
+WARNING Memory Usage
+ERROR Authentication Failed

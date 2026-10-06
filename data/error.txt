@@ -1,0 +1,6 @@
+error
+Error
+ERROR
+myERROR
+ERROR123
+123ERROR

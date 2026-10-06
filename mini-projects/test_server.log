@@ -1,0 +1,13 @@
+INFO Server Started
+INFO User Login
+WARNING CPU Usage High
+ERROR Database Connection Failed
+INFO Backup Completed
+ERROR Disk Full
+WARNING Memory Usage High
+ERROR Authentication Failed
+INFO User Logout
+WARNING Disk Usage High
+INFO Cron Job Started
+ERROR Network Timeout
+INFO Health Check Passed

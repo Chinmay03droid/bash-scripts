@@ -1,0 +1,7 @@
+Alice DevOps 75000
+Bob Cloud 68000
+Charlie Security 80000
+David DevOps 90000
+Emma Cloud 70000
+Frank Security 85000
+Grace DevOps 95000
